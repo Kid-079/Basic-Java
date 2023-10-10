@@ -1,0 +1,14 @@
+Environment Setup
+- sudo apt install default-jre
+- sudo apt install openjdk-19-jre-headless
+
+Compile Java :
+- javac Main.java
+- javac -d . Main.java (compile to directory)
+
+Running Java :
+- java Main.java
+- java com.data.Main
+
+Java Command Line Interface :
+- jshell
