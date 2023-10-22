@@ -1,0 +1,28 @@
+# 1
+Compile :
+- javac Data.java -d ../bin  --> Compile inside bin
+Run :
+- java Data
+
+
+# 2
+Compile :
+- javac newProgram/Data.java -d ../bin  --> Compile to bin directory but inside package program
+Run :
+- javac newProgram.Data
+
+
+# 3
+Compile Main.java inside folder com/dataName
+- javac com/dataName/Main.java -d ../bin
+
+Run :
+- java com.dataName.Main
+
+
+# 4
+Compile Jar
+- javac Data.java
+- jar -cvf data.jar Data.class
+- jar cvfm data.jar data.txt Data.class
+- data.jar or java -jar data.jar
