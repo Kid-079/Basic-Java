@@ -1,0 +1,7 @@
+1,product1,abcde,10
+2,product2,ABCDE,20
+3,product_3,Abcde,30
+4,product4,ABC,40
+5,product5,Abc,50
+product6_101,product6,abcde,10
+product9_product9_1,product9,abc,20
