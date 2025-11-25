@@ -1,4 +1,4 @@
-package com.array;
+package newArray.array;
 
 import java.util.Arrays;
 import java.lang.StringBuilder;
