@@ -42,7 +42,7 @@ public class Main {
 
 		// Replace
 		System.out.println("-> Replace <-");
-		string.replace(16, 22, " creepy");
+		string.replace(16, 22, " SPIRIT");
 		printData(string);
 		System.out.println();
 	}
